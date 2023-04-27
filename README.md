@@ -1,8 +1,8 @@
 # Informatica
 
-** Petróleo**
+**Petróleo**
 
-:fuelpump::oil_drum::oil::ship:
+:fuelpump::oil_drum::ship:
 
 ![petroleo](https://user-images.githubusercontent.com/132019809/235002621-5bf827c1-776e-4245-bbc6-0784664a608b.jpg)
 
